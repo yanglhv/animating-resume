@@ -23,10 +23,9 @@
         enableHtml: false,
         fullStyle: [
           `/*
-* Inspired by http://strml.net/
-* 大家好，我是方方
-* 二月了，好多公司都在招聘，你是不是也在准备简历呀。
-* 说做就做，我也来写一份简历！
+* 大家好，我是杨立辉
+* 看到一个好玩的前端项目, 在首页分享一下。
+* 说做就做，以我的简历示意做个Demo看看！
 */
 
 /* 首先给所有元素加上过渡效果 */
@@ -115,34 +114,34 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `方应杭
+        fullMarkdown: `杨立辉
 ----
 
-资深前端工程师，资深前端讲师，现在在 [饥人谷](http://jirengu.com) 教前端课程。
+一个喜欢将前瞻技术和产品结合应用的产品人，现在在滴滴出行做研发数字化工作。
 
 技能
 ----
 
-* 前端开发
-* Rails 开发
-* Node.js 开发
-* 前端授课
+* 传统技能前端Javascript/Vue框架, 后端Java/C++/Python/Nodejs都会一丢丢
+* AI大模型, 算法也会那么一丢丢, 主要还是AI落地应用
+* 产品经理技能: 需求分析, 产品设计, 项目管理, 然后就是画原型 + 侃大山
+* 汽车工程开发领域老本行了, 熟悉汽车空调系统, PLM涉及的上下游研产供管理系统
 
 工作经历
 ----
 
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
+1. 2015~2020 东风汽车 空调工程师 + PLM系统开发工程师
+2. 2021~2022 小鹏汽车 数字研发工程师, 数字化工艺项目 + ALM 
+3. 2022~至今 滴滴出行 研发数字化负责人, 各种研发系统 + AI应用落地
+
 
 链接
 ----
 
-* [GitHub](https://github.com/frankfang)
-* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
+* [GitHub](https://github.com/yanglhv)
+* [我的网站](http://yanglhv.cn)
 
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
+> [AI应用传送门](https://yanglhv.cn)！
 
 `
       }
